@@ -20,9 +20,9 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'izhiku.COM',
+  HEO_HERO_TITLE_3: 'IZHIKU.COM',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_5: '小月半子的智界',
   HEO_HERO_TITLE_LINK: 'https://www.izhiku.edu.kg',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -39,7 +39,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！我是小月半子',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
