@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到小月半子的博客', url: 'https://www.izhiku.edu.kg' },
-    { title: '访问文档中心获取更多帮助', url: 'https://www.izhiku.edu.kg' }
+    { title: '欢迎来到小月半子的博客', url: 'https://www.izhiku.com' },
+    { title: '访问文档中心获取更多帮助', url: 'https://www.izhiku.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'IZHIKU.COM',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '小月半子的智界',
-  HEO_HERO_TITLE_LINK: 'https://www.izhiku.edu.kg',
+  HEO_HERO_TITLE_LINK: 'https://www.izhiku.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://www.izhiku.edu.kg',
+  HEO_INFO_CARD_URL2: 'https://www.izhiku.com',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.izhiku.edu.kg',
+  HEO_INFO_CARD_URL3: 'https://www.izhiku.com',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://www.izhiku.edu.kg',
+  HEO_SOCIAL_CARD_URL: 'https://www.izhiku.com',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
